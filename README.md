@@ -6,8 +6,9 @@ I'm a passionate Full-Stack developer who loves building things with code. Welco
 
 - 💻 Primary Tech Stacks: TypeScript Full-Stack (React, Next.js, Node.js)
 - 🔭 I'm currently working on exciting projects
-- 🎯 Focus: Building scalable web applications and RESTful APIs
+- 🎯 Focus: Designing and developing scalable, high-performance web applications
 - 🌱 I'm always learning new technologies
+
 
 ## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,13 +20,17 @@ I'm a passionate Full-Stack developer who loves building things with code. Welco
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -42,11 +47,12 @@ I'm a passionate Full-Stack developer who loves building things with code. Welco
 
 ## 🎯 Recent Projects
 
-- **[Movie & TV Shows Streaming](https://github.com/abelwebdev/flick-verse)** - A movie streaming platform built with React and Tailwind CSS, featuring the latest movies and TV shows with fast search functionality.
-  - **Features:** Advanced search, detailed movie pages, and fully responsive design  
-  - **Tech Stack:** TypeScript, React, Tailwind, TMDB API  
-  - **Live Demo:** https://flick-verse.netlify.app
-  - 
+- **[Guitar Jamtrack](https://github.com/abelwebdev/guitar-jamtrack)** - A Next.js platform for guitar enthusiasts to browse backing tracks, organize playlists, and enhance practice with built-in tools.  
+  - **Features:** Browse backing tracks, mark favorites, create playlists, metronome, guitar tuner, chord & scale viewer, and an advanced audio player with section looping, playback speed control, and download functionality.  
+  - **Tech Stack:** TypeScript, Next.js, Prisma, PostgreSQL and Tailwind CSS  
+  - **Live Demo:** [https://guitar-jam-track.netlify.app](https://guitar-jam-track.netlify.app)
+
+
 - **[Fit Track](https://github.com/abelwebdev/fit-track)** - A full-stack fitness platform with 1300+ exercises for tracking workouts, building custom routines, and monitoring progress.
   - **Features:** Secure user authentication, workout logging, progress tracking, and an exercise library  
   - **Tech Stack:** TypeScript, React, Fastify, MongoDB, Tailwind, Firebase
